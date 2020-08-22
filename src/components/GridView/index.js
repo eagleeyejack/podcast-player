@@ -36,17 +36,18 @@ function PodcastGridItem({ podcastMeta }) {
 
   return (
     <li className="c-podcast-grid__item">
+      {console.log(podcastMeta)}
       <Link
         to={{
           pathname: '/podcast',
-          search: `?rss=${encodeURIComponent(podcastMeta.url)}`
+          search: `?rss=${encodeURIComponent(podcastMeta?.url)}`
         }}
         className="c-podcast-grid__link"
       >
         <PodcastImage podcastMeta={podcastMeta} />
       </Link>
       <h2 className="ts-display-5 u-margin-top-small u-break-word">
-        {podcastMeta.title || podcastMeta.url}
+        {podcastMeta?.title || podcastMeta?.url}
       </h2>
     </li>
   );
