@@ -219,11 +219,11 @@
 		"http://www.cwmpawd.org/pregethau/?podcast": {
 			"meta": {
 				"title": "Podlediad Cwmpawd - Eglwys Efengylaidd Gymraeg Caerdydd",
-				"img": "/img/podcast-images/CwmpawdEglwysEfengylaiddGymraegCaerdydd.jpg",
+				"img": "/img/podcast-images/church.jpg",
 				"slug": "podlediadCwmpawd-EglwysEfengylaiddGymraegCaerdydd",
 				"href": "/podlediadau/cwmpawd",
 				"url": "http://www.cwmpawd.org/pregethau/?podcast",
-				"originalImage": "/img/podcast-images/cwmpawd.jpg",
+				"originalImage": "/img/podcast-images/church.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
@@ -243,11 +243,11 @@
 		"https://podcasts.files.bbci.co.uk/p07jh2vj.rss": {
 			"meta": {
 				"title": "Podlediad Y Coridor Ansicrwydd",
-				"img": "/img/podcast-images/coridoransicrwydd.jpg",
+				"img": "/img/podcast-images/YCoridorAnsicrwydd.jpg",
 				"slug": "podlediadYCoridorAnsicrwydd",
 				"href": "/podlediadau/bbc-coridoransicrwydd",
 				"url": "https://podcasts.files.bbci.co.uk/p07jh2vj.rss",
-				"originalImage": "/img/podcast-images/coridoransicrwydd.jpg",
+				"originalImage": "/img/podcast-images/YCoridorAnsicrwydd.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
@@ -255,11 +255,11 @@
 		"http://www.spreaker.com/show/2875385/episodes/feed": {
 			"meta": {
 				"title": "Podlediad Codi'r Llen ar Chwaraeon yng Nghymru",
-				"img": "/img/podcast-images/chwaraeon.jpg",
+				"img": "/img/podcast-images/CodirLlenArChwaraeonYngNghymru.jpg",
 				"slug": "podlediadCodirLlenArChwaraeonYngNghymru",
 				"href": "/podlediadau/chwaraeon",
 				"url": "http://www.spreaker.com/show/2875385/episodes/feed",
-				"originalImage": "/img/podcast-images/chwaraeon.jpg",
+				"originalImage": "/img/podcast-images/CodirLlenArChwaraeonYngNghymru.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
@@ -267,11 +267,11 @@
 		"https://feeds.fireside.fm/clicorarchifs4c/rss": {
 			"meta": {
 				"title": "Clic O'r Archif",
-				"img": "/img/podcast-images/clicorarchifs4c.jpg",
+				"img": "/img/podcast-images/clicOrArchif.jpg",
 				"slug": "clicO'rArchif",
 				"href": "/podlediadau/clicorarchifs4c",
 				"url": "https://feeds.fireside.fm/clicorarchifs4c/rss",
-				"originalImage": "/img/podcast-images/clicorarchifs4c.jpg",
+				"originalImage": "/img/podcast-images/clicOrArchif.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
@@ -303,11 +303,11 @@
 		"https://podcasts.files.bbci.co.uk/p07t8v40.rss": {
 			"meta": {
 				"title": "Podlediad Dim Rwan Na Nawr",
-				"img": "/img/podcast-images/podlediadDimRwanNaNawr.jpg",
+				"img": "/img/podcast-images/DimRwanNaNawr.jpg",
 				"slug": "podlediadDimRwanNaNawr",
 				"href": "/podlediadau/bbc-dimrwannanawr",
 				"url": "https://podcasts.files.bbci.co.uk/p07t8v40.rss",
-				"originalImage": "/img/podcast-images/podlediadDimRwanNaNawr.jpg",
+				"originalImage": "/img/podcast-images/DimRwanNaNawr.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
@@ -315,11 +315,11 @@
 		"https://anchor.fm/s/6e30340/podcast/rss": {
 			"meta": {
 				"title": "Podlediad Tonfedd Cymru Fydd",
-				"img": "/img/podcast-images/diwrnodyngnghymrufydd.jpg",
+				"img": "/img/podcast-images/TonfeddCymruFydd.jpg",
 				"slug": "podlediadTonfeddCymruFydd",
 				"href": "/podlediadau/diwrnodyngnghymrufydd",
 				"url": "https://anchor.fm/s/6e30340/podcast/rss",
-				"originalImage": "/img/podcast-images/diwrnodyngnghymrufydd.jpg",
+				"originalImage": "/img/podcast-images/TonfeddCymruFydd.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
@@ -1267,7 +1267,7 @@
 				"slug": "beginnersWelshCourse",
 				"href": "/podlediadau/beginners-welsh-course",
 				"url": "http://media-podcast.open.ac.uk/feeds/l196-croeso/audio/rss2.xml",
-				"originalImage": "/img/podcast-images/beginners-welsh-course.jpg",
+				"originalImage": "/img/podcast-images/beginnersWelshCourse.jpg",
 				"description": "",
 				"date": "May 31 2020"
 			}
